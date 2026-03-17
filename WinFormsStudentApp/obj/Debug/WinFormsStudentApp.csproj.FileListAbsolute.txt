@@ -1,0 +1,10 @@
+C:\Users\admin\Source\Repos\WinFormsStudentApp\WinFormsStudentApp\bin\Debug\WinFormsStudentApp.exe.config
+C:\Users\admin\Source\Repos\WinFormsStudentApp\WinFormsStudentApp\bin\Debug\WinFormsStudentApp.exe
+C:\Users\admin\Source\Repos\WinFormsStudentApp\WinFormsStudentApp\bin\Debug\WinFormsStudentApp.pdb
+C:\Users\admin\Source\Repos\WinFormsStudentApp\WinFormsStudentApp\obj\Debug\WinFormsStudentApp.csproj.AssemblyReference.cache
+C:\Users\admin\Source\Repos\WinFormsStudentApp\WinFormsStudentApp\obj\Debug\WinFormsStudentApp.Form1.resources
+C:\Users\admin\Source\Repos\WinFormsStudentApp\WinFormsStudentApp\obj\Debug\WinFormsStudentApp.Properties.Resources.resources
+C:\Users\admin\Source\Repos\WinFormsStudentApp\WinFormsStudentApp\obj\Debug\WinFormsStudentApp.csproj.GenerateResource.cache
+C:\Users\admin\Source\Repos\WinFormsStudentApp\WinFormsStudentApp\obj\Debug\WinFormsStudentApp.csproj.CoreCompileInputs.cache
+C:\Users\admin\Source\Repos\WinFormsStudentApp\WinFormsStudentApp\obj\Debug\WinFormsStudentApp.exe
+C:\Users\admin\Source\Repos\WinFormsStudentApp\WinFormsStudentApp\obj\Debug\WinFormsStudentApp.pdb
